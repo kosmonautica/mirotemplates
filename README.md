@@ -12,5 +12,5 @@ The .rtb files are backups of Miro boards. You can import them to Miro:
 # Bulls Eye Discussion
 This board is for virtual Fish Bowl discussions
 <img src="images/bullseyediscussion.jpg">
-[Download (right click + save as)](BullsEyeDiscussion_Miro.rtb)
+<a href="BullsEyeDiscussion_Miro.rtb">Download (right click + save as)</a>
 
